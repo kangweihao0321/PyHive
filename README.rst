@@ -11,8 +11,7 @@ PyHive is a collection of Python `DB-API <http://www.python.org/dev/peps/pep-024
 `Hive <http://hive.apache.org/>`_.
 
 Local pack package
-===
-
+====
 python setup.py bdist_wheel
 
 Usage
